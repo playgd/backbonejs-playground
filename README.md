@@ -1,2 +1,2 @@
 # backbonejs-playground
-Playing with BackboneJS
+> Playing with BackboneJS
